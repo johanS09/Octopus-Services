@@ -67,6 +67,9 @@ NPM manejo de paquetes
 #### Base de datos
 - https://www.youtube.com/playlist?list=PLXLLBwZE5DbyHkTFYsKpiJmhTgNETMbxC Javascript y Firebase
 
+#### Conexion de front a heroku
+https://www.codementor.io/@ravianand1988/easily-4-steps-to-continuous-delivery-auto-deploy-vue-js-app-on-heroku-xljk977pq
+
 
 
 ![image](https://user-images.githubusercontent.com/87075376/132779138-337e2fbc-e868-4ef9-8d6d-a912f05c45d3.png) ![image](https://user-images.githubusercontent.com/87075376/132779242-79fabb37-1d90-4bab-b3f7-6e1a4c408bc4.png)
